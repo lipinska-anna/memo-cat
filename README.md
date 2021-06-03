@@ -12,8 +12,8 @@
 * Run via `npm run watch` to watch for changes.
 
 ## Configuration
-* Edit the rollup.config.dev.js to change development settings.
-* Edit the rollup.config.dist.js to change production settings.
+* Edit the rollup.config.dev.js file to change development settings.
+* Edit the rollup.config.dist.js file to change production settings.
 
 ## Screenshots
 
